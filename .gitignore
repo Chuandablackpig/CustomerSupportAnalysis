@@ -234,3 +234,4 @@ project_requirements/
 *.parquet
 *.npy
 *.npz
+!/data/rq1_manual_check.csv
